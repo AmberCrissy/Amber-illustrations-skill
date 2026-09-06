@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amber 正文配图"
+  short_description: "用 Amber 个人 IP 为中文文章生成白底手绘正文配图"
+  default_prompt: "使用 $amber-illustrations 为这篇中文文章规划并生成正文配图。"
